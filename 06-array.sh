@@ -1,5 +1,5 @@
 #!/bin/bash
-movies=("pushpa""rrr""devara")
+movies=("pushpa" "rrr" "devara")
 
 echo "First movie is : ${movies[0]}"
 echo "Second movie is : ${movies[1]}"
